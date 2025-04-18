@@ -1,0 +1,2 @@
+/home/pragmatic/Desktop/Pragtech Apps/location_n_pay-main/android/app/.cxx/Debug/e273k6s4/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/pragmatic/Desktop/Pragtech Apps/location_n_pay-main/android/app/.cxx/Debug/e273k6s4/armeabi-v7a/CMakeFiles/rebuild_cache.dir

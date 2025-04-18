@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444514092549",
+    "project_id": "locationnpay",
+    "storage_bucket": "locationnpay.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444514092549:android:cd12a9e6675efa5c6f7e6c",
+        "android_client_info": {
+          "package_name": "com.interview.location_n_pay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC67YL90czVY5pjwF504e-OsBILcEPzA3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

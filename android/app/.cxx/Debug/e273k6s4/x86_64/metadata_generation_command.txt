@@ -1,0 +1,20 @@
+                        -H/home/pragmatic/development/flutter/packages/flutter_tools/gradle/src/main/groovy
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=23
+-DANDROID_PLATFORM=android-23
+-DANDROID_ABI=x86_64
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DANDROID_NDK=/home/pragmatic/Android/Sdk/ndk/27.0.12077973
+-DCMAKE_ANDROID_NDK=/home/pragmatic/Android/Sdk/ndk/27.0.12077973
+-DCMAKE_TOOLCHAIN_FILE=/home/pragmatic/Android/Sdk/ndk/27.0.12077973/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/pragmatic/Android/Sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/pragmatic/Desktop/Pragtech Apps/location_n_pay-main/build/app/intermediates/cxx/Debug/e273k6s4/obj/x86_64
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/pragmatic/Desktop/Pragtech Apps/location_n_pay-main/build/app/intermediates/cxx/Debug/e273k6s4/obj/x86_64
+-DCMAKE_BUILD_TYPE=Debug
+-B/home/pragmatic/Desktop/Pragtech Apps/location_n_pay-main/android/app/.cxx/Debug/e273k6s4/x86_64
+-GNinja
+-Wno-dev
+--no-warn-unused-cli
+                        Build command args: []
+                        Version: 2
